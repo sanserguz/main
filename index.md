@@ -11,7 +11,7 @@ Update: Check our dynamic G-CSF treatment simulator on ISEE Exchange. [Click Her
 
 **Research Interests:** System dynamics, agent-based modeling, complex systems, health systems modeling, simulation-aided policy analysis, biomedical modeling, chronic disease management, evidence-based public health, health policy, dynamic decision making, health economics, insurance dynamics, LGBTQIA+ health, social determinants of health, health disparities
 
-![Image](complex.jpg)
+![Image](complex-2.jpg)
 
 ### Related Coursework (w/Instructor)
 **Complex Systems Science and Simulation**
