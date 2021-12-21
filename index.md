@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## [Şanser Güz](https://sanserguz.github.io/main/) (they/them)
 
-You can use the [editor on GitHub](https://github.com/sanserguz/main/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my GitHub page. Here, you can access my previous research and selected produced materials from my graduate coursework. You can also take a look at my MSc thesis progress journal using the link below.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### **[Curriculum Vitae](GUZ_resCV.pdf)** <br>
+_Contact mail: sanserguz@gmail.com_
 
-### Markdown
+Update: Check our dynamic G-CSF treatment simulator on ISEE Exchange. [Click Here](https://exchange.iseesystems.com/public/oirsoy/dynamic-g-csf-treatment-of-chemotherapy-induced-neutropenia)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##  [Publications](https://sanserguz.github.io/publications/)  |  [Projects](https://sanserguz.github.io/projects/)  |  [Thesis Progress](https://sanserguz.github.io/thesis/) 
 
-```markdown
-Syntax highlighted code block
+**Research Interests:** System dynamics, agent-based modeling, complex systems, health systems modeling, simulation-aided policy analysis, biomedical modeling, chronic disease management, evidence-based public health, health policy, dynamic decision making, health economics, insurance dynamics, LGBTQIA+ health, social determinants of health, health disparities
 
-# Header 1
-## Header 2
-### Header 3
+![Image](complex.jpg)
 
-- Bulleted
-- List
+### Related Coursework (w/Instructor)
+**Complex Systems Science and Simulation**
+- Dynamics of Socio-Economic Systems, Yaman Barlas
+- Agent Based Modeling & Simulation, Gönenç Yücel
+- Systems and Sustainability, Ali Kerem Saysel	
+- Systems Theory, Gönenç Yücel
+- Systems Science and Engineering, Gönenç Yücel
+- Systems Simulation (DES), Ali Rıza Kaylan
 
-1. Numbered
-2. List
+**Operations Research and Management**
+- Optimization Techniques, Kuban Altınel 	
+- Operations Research I, İlhan Or 
+- Operations Research II, Hakan Yaşarcan 	
+- Facilities Design & Planning, Gönenç Yücel
+- Supply Chain Management, Taner Bilgiç 
+- Graph Algorithms & Applications, Tınaz Ekim
+- Stochastic Models in OR, Refik Güllü
+- Strategic Management for Engineers, Lutfi Ensari
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sanserguz/main/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Data Science, Statistics and Stochastic Modeling**
+- Statistical Learning for Data Mining, Mustafa Baydoğan	
+- Statistical Inference, Wolfgang Hörmann
+- Stochastic Processes and Applications, Aybek Korugan
+- Statistical Forecasting & Time Series, Mustafa Baydoğan
+- Design & Analysis of Experiments, Ali Rıza Kaylan
+- Queuing Systems Analysis & Control, Aybek Korugan	
+- Quality Engineering, Mustafa Baydoğan	
